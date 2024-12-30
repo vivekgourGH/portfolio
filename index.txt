@@ -1,0 +1,118 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Vivek Gour
+Vivek Gour
+B.Tech in CSE (IoT and Cyber Security)
+
+Show Contacts
+
+Email
+contactvivekgour@gmail.com
+
+Phone
++91-7389110171
+
+Location
+Bhopal, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm a B.Tech student specializing in IoT and Cyber Security from Lakshmi Narain College of Technology, Bhopal. I have a keen interest in problem-solving, IoT innovations, and frontend development.
+
+## service
+
+What I'm doing
+
+<!-- Empty for now -->
+
+## testimonials
+
+Testimonials
+
+<!-- Empty for now -->
+
+## clients
+
+Clients
+
+<!-- Empty for now -->
+
+# resume
+
+Resume
+
+Education
+
+Lakshmi Narain College of Technology, Bhopal
+2021 — 2025
+B.Tech in CSE (IoT and Cyber Security), CGPA: 7.0 (up to 6th semester)
+
+Saraswati Vidya Mandir, H.S. School, Silwani
+Class XII
+Grade: 81%
+
+Experience
+
+<!-- Empty for now -->
+
+My skills
+
+Java
+80%
+SQL
+70%
+Teamwork
+90%
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = Hydroponic Farming Automation through IoT
+Hydroponic Farming Automation through IoT
+Implemented a comprehensive IoT system to monitor and control hydroponic farming operations.
+
+alt = E-commerce Web Application
+E-commerce Web Application
+Developed a foundational e-commerce frontend using HTML, CSS, and JavaScript.
+
+# blog
+
+Blog
+
+<!-- Empty for now -->
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
